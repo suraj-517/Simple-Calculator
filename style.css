@@ -1,0 +1,24 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+  
+}
+
+
+
+.input {
+    margin: 9px;
+    padding: 9px 40px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.button {
+    width: 50px;
+    margin: 6px;
+    padding: 11px 17px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: #f6db69;
+}
